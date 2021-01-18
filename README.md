@@ -1,0 +1,1 @@
+This is MilosNj's first git project done from a Linux terminal.
